@@ -52,5 +52,5 @@ npm run dev
 
 CATEGORIA: OBSERVAÇÃO
 
-- Certifique-se de ter o Node.js e o npm instalados na sua máquina.
-- Substitua "seu-usuario" pelo nome correto do GitHub, se necessário.
+- Certifique-se de ter o Node.js e o npm instalados em sua máquina antes de executar os comandos.
+- Substitua "seu-usuario" pelo nome correto do usuário no GitHub, caso necessário.
